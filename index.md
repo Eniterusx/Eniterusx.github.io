@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Witam serdecznie
 
-You can use the [editor on GitHub](https://github.com/Eniterusx/Eniterusx.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Uwielbiam Roberta Makłowicza.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tutaj zdjęcie mojego idola.
 
-### Markdown
+<img src="https://bi.im-g.pl/im/f6/66/19/z26636022V,Robert-Maklowicz.jpg" width="400" alt="pozdrawiam wszystkich"/>
+<i>ale ma duży widelec</i>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## W sumie to fajny ten widelec
 
-```markdown
-Syntax highlighted code block
+Zaciekawiony tym widelcem, sam chciałem zaopatrzyć się w jeden
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://i.imgur.com/EkOv6v9.png" width="1000" alt="pozdrawiam wszystkich"/>
+https://www.greatbigstuff.com/collections/browse-all-products/products/spoon-and-fork-set
 
-- Bulleted
-- List
+Niestety jednak, jestem [studentem](https://pl.wikipedia.org/wiki/Bieda), więc ostatecznie stwierdziłem, że nie dokonam zakupu wyżej wymienionego produktu, a przynajmniej nie w najbliższej przyszłości.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eniterusx/Eniterusx.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Nie wiem, co jeszcze dodać na tej stronie, Jekyll ma jakąś dziwną składnię. Pozdrawiam serdecznie.
