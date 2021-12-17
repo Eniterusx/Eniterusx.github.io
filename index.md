@@ -1,3 +1,24 @@
+# UWAGA UWAGA!
+
+Czy słyszałeś już może o <b>Student Simulator</b>? Jeśli nie, to jest to idealna okazja, żeby zapoznać się z tym projektem właśnie teraz!
+<figure class="image">
+   <img src="https://i.imgur.com/ETOTtlD.png" width="400">
+  <figcaption><i>Screenshot z gry</i></figcaption>
+</figure>
+<b>Student Simulator</b> to rewolucyjna gra łącząca gatunki clicker z text-based adventure, stworzona w celu umilania czasu na przydługich wykładach. Prosty interfejs i nieskomplikowana rozgrywka pozwalają na jednoczesne granie i przyswajanie wiedzy. Wszystkie akcje wykonuje się poprzez wpisanie odpowiedniej komendy do wiersza poleceń. Całość została napisana w Pythonie. Jako, że jest to gra tekstowa, to interfejsem programu jest zwykły shell systemu. Nie potrzeba instalować żadnych dodatkowych programów!
+
+Grę można pobrać [tutaj](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Aezakmi)
+Wystarczy pobrać plik StudentSimulatorClicker.exe
+
+Strony pozostałych członków zespołu:
+[Robert Barcik](https://didgetpl.github.io)
+Krzysztof Dudek (nie posiada)
+[Miłosz Góralczyk](https://haarmeggido.github.io)
+Adam Pliszka (nie posiada)
+
+
+
+
 # Witam serdecznie
 
 Uwielbiam Roberta Makłowicza.
